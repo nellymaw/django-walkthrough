@@ -34,6 +34,7 @@ X_FRAME_OPTIONS = 'SAMEORIGIN'
 
 ALLOWED_HOSTS = ['codestar2022-nellymaw.herokuapp.com', 'localhost', '127.0.0.1']
 
+ACCOUNT_EMAIL_VERIFICATION = 'none'
 
 # Application definition
 
